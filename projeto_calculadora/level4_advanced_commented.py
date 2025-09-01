@@ -53,3 +53,6 @@ while True:
     # Handle invalid operation input
     else:
         print("Invalid operation! Please choose +, -, *, / or q.")
+
+# Atualizado em 01/09/2025 para criação de Pull Request
+

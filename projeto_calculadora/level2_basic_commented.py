@@ -26,3 +26,5 @@ elif operation == "/":
         print("Error: Division by zero is not allowed!")  # Prevents crash
 else:
     print("Invalid operation!")  # Handles invalid input
+
+# Atualizado em 01/09/2025 para criação de Pull Request

@@ -11,4 +11,6 @@ if operation == "+":
 elif operation == "-":
     print("Result:", number1 - number2)  # If operation is "-", perform subtraction
 else:
-    print("Invalid operation!")  # If another operation is chosen, show error
+    print("Invalid operation!")  # If another operation is chosen, show error 
+
+# Atualizado em 01/09/2025 para criação de Pull Request

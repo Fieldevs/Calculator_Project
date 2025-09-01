@@ -33,4 +33,7 @@ while True:
         else:
             print("Error: Division by zero is not allowed!")  # Prevent crash
     else:
-        print("Invalid operation! Please choose +, -, *, / or q.")  # Handle invalid input
+        print("Invalid operation! Please choose +, -, *, / or q.")  # Handle invalid input 
+
+# Atualizado em 01/09/2025 para criação de Pull Request
+

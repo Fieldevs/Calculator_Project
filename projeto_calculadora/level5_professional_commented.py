@@ -59,4 +59,7 @@ while True:
     elif operation == "/":
         print("Result:", divide(numbers))
     else:
-        print("Invalid operation! Please choose +, -, *, / or q.")  # Handle invalid input
+        print("Invalid operation! Please choose +, -, *, / or q.")  # Handle invalid input 
+
+# Atualizado em 01/09/2025 para criação de Pull Request
+

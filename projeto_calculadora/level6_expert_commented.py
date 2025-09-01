@@ -170,4 +170,7 @@ while True:
 
     # Invalid menu choice
     else:
-        print("Invalid choice! Please select 1-4.")
+        print("Invalid choice! Please select 1-4.") 
+
+# Atualizado em 01/09/2025 para criação de Pull Request
+
